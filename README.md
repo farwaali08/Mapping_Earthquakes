@@ -6,10 +6,11 @@
 
 **SOFTWARE**
 
-*
-*
-*
-*
+* JavaScript
+* Leaflet
+* Mapbox
+* D3
+* HTML/CSS
 
 **DATA**
 
