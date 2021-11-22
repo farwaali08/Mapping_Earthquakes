@@ -13,9 +13,10 @@
 
 **DATA**
 
-* Challenge Code:[challenge_logic.js](https://github.com/farwaali08/Mapping_Earthquakes/blob/7a3a870cdcd57f2902bccbc81eea7dcc7cd309e5/Earthquake_Challenge/static/js/challenge_logic.js)
-* [Tectonic Plates](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json)
-* [Major Earthquakes](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson)
+* Challenge Code: [challenge_logic.js](https://github.com/farwaali08/Mapping_Earthquakes/blob/7a3a870cdcd57f2902bccbc81eea7dcc7cd309e5/Earthquake_Challenge/static/js/challenge_logic.js)
+* [Earthquakes GeoJSON](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
+* [Tectonic Plates GeoJSON](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json)
+* [Major Earthquakes GeoJSON](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson)
 
 ## MAPS
 
