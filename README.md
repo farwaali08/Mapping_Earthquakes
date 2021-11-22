@@ -8,7 +8,11 @@
 
 ### STREET VIEW
 
+![alt_text](https://github.com/farwaali08/Mapping_Earthquakes/blob/91584a7475f1e95b564836dc8ad593a07563dee8/Images/streets.png)
+
 ### SATELLITE VIEW
+
+![alt_text](https://github.com/farwaali08/Mapping_Earthquakes/blob/91584a7475f1e95b564836dc8ad593a07563dee8/Images/satellite.png)
 
 ### DARK VIEW
 
